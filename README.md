@@ -1,7 +1,6 @@
 # Final Project in Managing Enterprise Servers
 ![cover](/assets/imgs/cover.png)
-* * *
-Live Website Here: [Final Project](https://qmjae.github.io/FP_MES/)
+## Live Website Here: [Final Project](https://qmjae.github.io/FP_MES/)
 
 # Preliminary Period
 * * *
