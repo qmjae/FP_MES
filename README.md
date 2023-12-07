@@ -1,6 +1,6 @@
 # Final Project in Managing Enterprise Servers
 * * *
-Live Website Here: [Final Project](https://github.com/qmjae/HOA1)
+Live Website Here: [Final Project](https://qmjae.github.io/FP_MES/)
 
 # Preliminary Period
 * * *
